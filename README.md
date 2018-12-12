@@ -1,5 +1,6 @@
-HiApp
+Yuspa
 =====
+Yuspa is made to read Valery Youdom's USPA.
 
 A simple and interesting Framework7 hybrid app.With Cordova you can easily convert it to native iOS app.
 

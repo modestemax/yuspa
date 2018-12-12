@@ -1,12 +1,12 @@
 {
-  "name": "HiApp",
-  "description": "A web app made with Framework7.With PhoneGap you can easily convert it to native iOS app.",
-  "version": "3.1.0",
-  "author": "BelinChung",
+  "name": "Yuspa",
+  "description": "Yuspa is made to read Valery Youdom's USPA.",
+  "version": "1.0.0",
+  "author": "ModesteM@x",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BelinChung/HiApp.git"
+    "url": "https://github.com/modestemax/yuspa.git"
   },
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -28,9 +28,9 @@
     "f7"
   ],
   "bugs": {
-    "url": "https://github.com/BelinChung/HiApp/issues"
+    "url": "https://github.com/modestemax/Yuspa/issues"
   },
-  "homepage": "https://hi.dearb.me/",
+  "homepage": "https://modestemax.github.com/yuspa/",
   "dependencies": {
     "axios": "^0.18.0",
     "cordova-android": "7.1.4",
